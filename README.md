@@ -7,8 +7,8 @@
 - Hỗ trợ giọng nói tự nhiên tiếng Việt (mặc định: `vi-VN-HoaiMyNeural`)
 - Tạo và phát file âm thanh `.mp3`
 - Tự động nhận diện hệ điều hành và phát âm thanh phù hợp:
-  - ✅ Windows
-  - ✅ Linux
+    ✅ Windows
+    ✅ Linux
 
 ## 🧰 Yêu cầu hệ thống
 
